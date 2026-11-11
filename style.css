@@ -10,7 +10,6 @@ body {
 
 header img {
     display: block;
-    border-radius: 50%;
     margin: 1rem 0;
 }
 
@@ -45,4 +44,12 @@ header img {
 
 .lineup dd {
     margin: 0;
+}
+
+.aboutme {
+    padding-left: 0.5rem;
+}
+
+.yap {
+    margin-bottom: 2.5rem;
 }
