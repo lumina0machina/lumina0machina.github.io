@@ -3,6 +3,7 @@ body {
     margin: 0 auto;
     padding: 2rem 1rem;
     font-family: system-ui, sans-serif;
+    font-size: 0.8rem;
     line-height: 1.6;
     background-color: #111;
     color: #ddd;
